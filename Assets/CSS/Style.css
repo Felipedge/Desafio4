@@ -1,0 +1,29 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.logo {
+    width: 86pt;
+    height: 25pt;
+
+}
+
+.color-fondo {
+    background-color: #28a745;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+.green {
+    color: #28A745;
+}
+
+footer img {
+    width: 82px;
+}
+
+footer p {
+    margin: 0 30pt;
+}
